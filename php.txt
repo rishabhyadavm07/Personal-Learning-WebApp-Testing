@@ -13,3 +13,4 @@ wp-config.zip
 wp-config.md
 wp-config.php_orig
 wp-config.bak
+wp-content/debug.log
