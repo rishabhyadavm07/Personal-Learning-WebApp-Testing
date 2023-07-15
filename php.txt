@@ -1,1 +1,10 @@
 /common/config.php.new
+config.php.old
+config.php.bak
+config.php.zip
+config.php.tar.gz
+wp-config.php
+wp-config.PHP
+config.php.sav
+config.bak
+config.php.txt
