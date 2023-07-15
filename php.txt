@@ -1,4 +1,4 @@
-/common/config.php.new
+common/config.php.new
 config.php.old
 config.php.bak
 config.php.zip
@@ -8,3 +8,8 @@ wp-config.PHP
 config.php.sav
 config.bak
 config.php.txt
+wp-config.txt
+wp-config.zip
+wp-config.md
+wp-config.php_orig
+wp-config.bak
